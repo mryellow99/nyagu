@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "ぼくの考えた最強の猫の記事"
+date:   2018-01-13 23:26:42 +0900
+categories: cat degus
+---
+猫とデグーが仲良くしたら嬉しいよね

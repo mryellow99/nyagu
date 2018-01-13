@@ -1,0 +1,9 @@
+---
+layout: default
+---
+ホーム画面用のレイアウトです
+<section>
+  {% for post in site.posts %}
+    <p><a href="{{ post.url }}">{{post.title}}</p></a>
+  {% endfor%}
+</section>
